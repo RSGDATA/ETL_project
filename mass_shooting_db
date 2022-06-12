@@ -1,0 +1,17 @@
+CREATE TABLE mass_shooting (
+id INT PRIMARY KEY,
+State varchar(50),
+permit_2016 INT,
+Injured_2016 INT,
+Killed_2016 INT,
+permit_2017 INT,
+Injured_2017 INT,
+Killed_2017 INT,
+permit_2018 INT,
+Injured_2018 INT,
+Killed_2018 INT,
+permit_2019 INT,
+Injured_2019 INT,
+Killed_2019 INT	
+	
+);
